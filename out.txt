@@ -1,0 +1,2 @@
+solved with forward checking algorithm
+algorithm could solve the puzzle in time 5195 millisecond
